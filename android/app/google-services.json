@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "751857482469",
+    "project_id": "ai-exam-analysis",
+    "storage_bucket": "ai-exam-analysis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751857482469:android:8072e744e537e06b34720c",
+        "android_client_info": {
+          "package_name": "com.example.ai_exam_analysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751857482469-t1midufcr9to28nh5qj3epfrappdb2s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkAOQXCXLnmgBTMtWeipJqljYRPOKF8P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751857482469-t1midufcr9to28nh5qj3epfrappdb2s3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751857482469-bfg71j5f676sclvraie3gkkh16n6goqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiExamAnalysis"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751857482469:android:8ccfae69422b0c8b34720c",
+        "android_client_info": {
+          "package_name": "education.advantageous.aiExamAnalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751857482469-t1midufcr9to28nh5qj3epfrappdb2s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkAOQXCXLnmgBTMtWeipJqljYRPOKF8P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751857482469-t1midufcr9to28nh5qj3epfrappdb2s3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751857482469-bfg71j5f676sclvraie3gkkh16n6goqu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiExamAnalysis"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
